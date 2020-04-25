@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685940938005",
+    "firebase_url": "https://cloud-calculator-b7650.firebaseio.com",
+    "project_id": "cloud-calculator-b7650",
+    "storage_bucket": "cloud-calculator-b7650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685940938005:android:a739ed9ab0fc77f01e451c",
+        "android_client_info": {
+          "package_name": "com.example.cloudcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685940938005-nqsqfjbd9krh701bo9k63ipm0qgm747p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloudcalculator",
+            "certificate_hash": "9734cd81dd623ad516a43b32297a2e82e2ac5d92"
+          }
+        },
+        {
+          "client_id": "685940938005-qgva450bm4ia4hptgs7n4kf0j9ls39u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJGdBtHpZwcC0J-DmG5lse7mgOMyAg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685940938005-qgva450bm4ia4hptgs7n4kf0j9ls39u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

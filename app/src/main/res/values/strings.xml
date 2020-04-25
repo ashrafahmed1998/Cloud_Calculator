@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cloud Calculator</string>
+    <string name="answers" />
+    <string name="power" />
+    <string name="minus" />
+    <string name="mul" />
+    <string name="plus" />
+    <string name="_0" />
+    <string name="todo">TODO</string>
+    <string name="clear">Clear</string>
+    <string name="div">/</string>
+    <string name="plusss">+</string>
+    <string name="minuss">-</string>
+    <string name="enter_numbers_here">Enter number here</string>
+    <string name="enter_number_here">Enter number here</string>
+</resources>
